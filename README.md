@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=JIHOI&fontSize=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9B3ED&height=200&section=header&text=JIHOI&fontSize=60&fontColor=ffffff" />
 </p>
 
 <p align="center"><span style="color:#d8b4fe"><i>/*web developer and more*/</i></span></p>
 
+<div align="center">
 ---
 
 ### 📍 PROFILE
@@ -62,6 +63,7 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
 
+<div align="center">
 ---
 
 ### 📚 EDUCATION
@@ -75,4 +77,6 @@ Here are some ideas to get you started:
 
 ![Jihoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihoi0615&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoi0615&layout=compact&theme=radical)
+</div>
 
+</div>
