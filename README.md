@@ -12,16 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"></h1>
-<p align="center"><i>/*web developer and more*/</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=JIHOI&fontSize=60&fontColor=ffffff" />
+</p>
+
+<p align="center"><span style="color:#d8b4fe"><i>/*web developer and more*/</i></span></p>
 
 ---
 
 ### 📍 PROFILE
 
-[![NAVERBLOG](https://img.shields.io/badge/-NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/supofmountain)
+
+[![NAVERBLOG](https://img.shields.io/badge/-NAVERBLOG-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/supofmountain)
 [![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=github)](https://github.com/yourusername)
-[![TechBlog](https://img.shields.io/badge/-TECHBLOG-lightgrey?style=flat-square)](https://your-blog.com)
+[![TechBlog](https://img.shields.io/badge/-TECHBLOG-lightgrey?style=flat-square)](https://your-tech-blog.com)
 
 ---
 
@@ -69,6 +73,6 @@ Here are some ideas to get you started:
 
 ### 🌲 GitHub Stats
 
-![Jihoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Jihoi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihoi0615&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoi0615&layout=compact&theme=radical)
 
