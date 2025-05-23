@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![NAVERBLOG](https://img.shields.io/badge/-NAVERBLOG-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/supofmountain)
 [![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=github)](https://github.com/jihoi0615)
-[![TechBlog](https://img.shields.io/badge/-TECHBLOG-lightgrey?style=flat-square)]([https://your-tech-blog.com](https://supofmountain.tistory.com/))
+[![TechBlog](https://img.shields.io/badge/-TECHBLOG-lightgrey?style=flat-square)](https://supofmountain.tistory.com/)
 
 ---
 
